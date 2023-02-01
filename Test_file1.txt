@@ -1,2 +1,6 @@
 This is the first git file created for testing
+<<<<<<< HEAD
 Editing and commiting the file in github.
+=======
+Editing the git file in local repository and try to commit and solve any merge issues.
+>>>>>>> 38a94cd (commit from local)
