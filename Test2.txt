@@ -1,0 +1,2 @@
+single command to add and commit the file
+ 
